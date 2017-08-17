@@ -1,2 +1,2 @@
 # Game-
-Is it s game?
+Is it a game?
